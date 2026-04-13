@@ -1,0 +1,532 @@
+2026-04-11 20:30:36 | INFO     | OmegaEngine | ============================================================
+2026-04-11 20:30:36 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-11 20:30:36 | INFO     | OmegaEngine | ============================================================
+2026-04-11 20:30:36 | WARNING  | OmegaEngine | ⚠️ No license found. Run registration to authorize this machine.
+   Current MAC: 3C:6A:A7:16:A5:ED
+2026-04-11 20:30:36 | WARNING  | OmegaEngine | Engine running in WARNING mode - license mismatch
+2026-04-11 20:30:36 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-11 20:30:37 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-11 20:30:37 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-11 20:30:37 | INFO     | OmegaEngine | ⚡ Numba acceleration test: 39.0µs per iteration
+2026-04-11 20:30:37 | INFO     | OmegaEngine | ✅ Performance target achieved! (39.0µs < 500µs)
+2026-04-11 20:30:37 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-11 20:30:37 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-11 20:30:37 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-11 20:30:37 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-11 20:30:37 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-11 20:30:37 | INFO     | OmegaEngine | 🔒 Hardware Status: {'mac_address': '3C:6A:A7:16:A5:ED', 'ip_address': '172.16.16.104', 'hostname': 'DESKTOP-2ONO5R7', 'fingerprint': '5eb5f23f85db7093ffed8d1f861c79ccc298dd1ea84ec6b9d6a1e1147688a9b3', 'is_authorized': False, 'license_exists': False}
+2026-04-11 20:31:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 20:32:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 20:33:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 20:34:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-11 20:34:03 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 20:34:03 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:34:03 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Session Duration: 0:03:26.894123
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 20:34:03 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:34:03 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 20:34:03 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 20:34:03 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:34:03 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Session Duration: 0:03:26.894123
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 20:34:03 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 20:34:03 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:34:03 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ============================================================
+2026-04-11 20:35:00 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ============================================================
+2026-04-11 20:35:00 | WARNING  | OmegaEngine | ⚠️ No license found. Run registration to authorize this machine.
+   Current MAC: 3C:6A:A7:16:A5:ED
+2026-04-11 20:35:00 | WARNING  | OmegaEngine | Engine running in WARNING mode - license mismatch
+2026-04-11 20:35:00 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ⚡ Numba acceleration test: 33.0µs per iteration
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ✅ Performance target achieved! (33.0µs < 500µs)
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-11 20:35:00 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-11 20:35:00 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-11 20:35:00 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-11 20:35:00 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-11 20:35:00 | INFO     | OmegaEngine | 🔒 Hardware Status: {'mac_address': '3C:6A:A7:16:A5:ED', 'ip_address': '172.16.16.104', 'hostname': 'DESKTOP-2ONO5R7', 'fingerprint': '5eb5f23f85db7093ffed8d1f861c79ccc298dd1ea84ec6b9d6a1e1147688a9b3', 'is_authorized': False, 'license_exists': False}
+2026-04-11 20:36:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 20:36:13 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-11 20:36:14 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 20:36:14 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:36:14 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Session Duration: 0:01:14.216306
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 20:36:14 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:36:14 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 20:36:14 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 20:36:14 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:36:14 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Session Duration: 0:01:14.231769
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 20:36:14 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 20:36:14 | INFO     | OmegaEngine | ==================================================
+2026-04-11 20:36:14 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 21:02:55 | INFO     | OmegaEngine | ============================================================
+2026-04-11 21:02:55 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-11 21:02:55 | INFO     | OmegaEngine | ============================================================
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ============================================================
+2026-04-11 21:22:05 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ============================================================
+2026-04-11 21:22:05 | WARNING  | OmegaEngine | ⚠️ No license found. Run registration to authorize this machine.
+   Current MAC: 3C:6A:A7:16:A5:ED
+2026-04-11 21:22:05 | WARNING  | OmegaEngine | Engine running in WARNING mode - license mismatch
+2026-04-11 21:22:05 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ⚡ Numba acceleration test: 126.4µs per iteration
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ✅ Performance target achieved! (126.4µs < 500µs)
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-11 21:22:05 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-11 21:22:05 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-11 21:22:05 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-11 21:22:05 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-11 21:22:05 | INFO     | OmegaEngine | 🔒 Hardware Status: {'mac_address': '3C:6A:A7:16:A5:ED', 'ip_address': '172.16.16.104', 'hostname': 'DESKTOP-2ONO5R7', 'fingerprint': '5eb5f23f85db7093ffed8d1f861c79ccc298dd1ea84ec6b9d6a1e1147688a9b3', 'is_authorized': False, 'license_exists': False}
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-11 21:22:27 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 21:22:27 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:22:27 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Session Duration: 0:00:22.095407
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 21:22:27 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:22:27 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 21:22:27 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 21:22:27 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:22:27 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Session Duration: 0:00:22.095407
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 21:22:27 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 21:22:27 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:22:27 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ============================================================
+2026-04-11 21:42:25 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ============================================================
+2026-04-11 21:42:25 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ⚡ Numba acceleration test: 36.8µs per iteration
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ✅ Performance target achieved! (36.8µs < 500µs)
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-11 21:42:25 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-11 21:42:25 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-11 21:42:25 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-11 21:42:25 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-11 21:42:50 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-11 21:42:51 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 21:42:51 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:42:51 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Session Duration: 0:00:26.265326
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 21:42:51 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:42:51 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 21:42:51 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-11 21:42:51 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:42:51 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Session Duration: 0:00:26.265326
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-11 21:42:51 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-11 21:42:51 | INFO     | OmegaEngine | ==================================================
+2026-04-11 21:42:51 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ============================================================
+2026-04-11 23:47:13 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ============================================================
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ Exchange: Binance (SANDBOX/TEST MODE)
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-11 23:47:13 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ⚡ Numba test: 33.9µs per iteration
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ Performance target achieved! (33.9µs < 500µs)
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-11 23:47:13 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-11 23:47:13 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-11 23:47:13 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-11 23:47:13 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-11 23:47:13 | ERROR    | OmegaEngine | Failed to get price: binance GET https://testnet.binance.vision/api/v3/exchangeInfo
+2026-04-11 23:47:13 | INFO     | OmegaEngine | 📊 Current BTC Price: $0.00
+2026-04-11 23:48:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 23:49:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 23:50:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 23:51:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-11 23:52:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ============================================================
+2026-04-12 16:13:48 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ============================================================
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ Exchange: Binance (SANDBOX/TEST MODE)
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 16:13:48 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ⚡ Numba test: 33.2µs per iteration
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ Performance target achieved! (33.2µs < 500µs)
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 16:13:48 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 16:13:48 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 16:13:48 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 16:13:48 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 16:13:48 | ERROR    | OmegaEngine | Failed to get price: binance GET https://testnet.binance.vision/api/v3/exchangeInfo
+2026-04-12 16:13:48 | INFO     | OmegaEngine | 📊 Current BTC Price: $0.00
+2026-04-12 16:14:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 16:14:35 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 16:14:36 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 16:14:36 | INFO     | OmegaEngine | ==================================================
+2026-04-12 16:14:36 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Session Duration: 0:00:48.177282
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 16:14:36 | INFO     | OmegaEngine | ==================================================
+2026-04-12 16:14:36 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 16:14:36 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 16:14:36 | INFO     | OmegaEngine | ==================================================
+2026-04-12 16:14:36 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Session Duration: 0:00:48.637253
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 16:14:36 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 16:14:36 | INFO     | OmegaEngine | ==================================================
+2026-04-12 16:14:36 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:09:22 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ Exchange: Binance (LIVE MODE - BE CAREFUL!)
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 17:09:22 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ⚡ Numba test: 37.1µs per iteration
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ Performance target achieved! (37.1µs < 500µs)
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 17:09:22 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 17:09:22 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 17:09:22 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 17:09:22 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 17:09:22 | ERROR    | OmegaEngine | Failed to get price: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776002962709&recvWindow=10000&signature=01e9324aa6442b2922590428de3fc4ddee1237aeb11fe556100b2f754b6c51e2
+2026-04-12 17:09:22 | INFO     | OmegaEngine | 📊 Current BTC Price: $0.00
+2026-04-12 17:10:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:11:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:12:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:15:56 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 17:15:56 | WARNING  | OmegaEngine | ⚠️ Exchange not configured - trading disabled
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 17:15:56 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ⚡ Numba test: 48.5µs per iteration
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ✅ Performance target achieved! (48.5µs < 500µs)
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 17:15:56 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 17:15:56 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 17:15:56 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 17:15:56 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 17:15:56 | INFO     | OmegaEngine | 📊 Current BTC Price: $50,000.00
+2026-04-12 17:16:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:17:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:18:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:19:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:20:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:21:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:22:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:23:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:24:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:25:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:26:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:27:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:28:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:35:05 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 17:35:05 | WARNING  | OmegaEngine | ⚠️ Exchange not configured - trading disabled
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 17:35:05 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ⚡ Numba test: 37.1µs per iteration
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ✅ Performance target achieved! (37.1µs < 500µs)
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 17:35:05 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 17:35:05 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 17:35:05 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 17:35:05 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 17:35:05 | INFO     | OmegaEngine | 📊 Current BTC Price: $50,000.00
+2026-04-12 17:36:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:37:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:38:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:39:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:40:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:40:12 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 17:40:12 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:42:00 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 17:42:00 | WARNING  | OmegaEngine | ⚠️ Exchange not configured - trading disabled
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 17:42:00 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ⚡ Numba test: 69.0µs per iteration
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ✅ Performance target achieved! (69.0µs < 500µs)
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 17:42:00 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 17:42:00 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 17:42:00 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 17:42:00 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 17:42:01 | INFO     | OmegaEngine | 📊 Current BTC Price: $50,000.00
+2026-04-12 17:43:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:46:14 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 17:46:14 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:46:14 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:46:14 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 17:46:14 | INFO     | OmegaEngine | Session Duration: 0:04:14.363523
+2026-04-12 17:46:14 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 17:46:14 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 17:46:14 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 17:46:14 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 17:46:14 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:46:14 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 17:46:14 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:46:15 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:46:15 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 17:46:15 | INFO     | OmegaEngine | Session Duration: 0:04:14.850798
+2026-04-12 17:46:15 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 17:46:15 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 17:46:15 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 17:46:15 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 17:46:15 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:46:15 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:48:04 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 17:48:04 | WARNING  | OmegaEngine | ⚠️ Exchange not configured - trading disabled
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 17:48:04 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ⚡ Numba test: 37.6µs per iteration
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ✅ Performance target achieved! (37.6µs < 500µs)
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 17:48:04 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 17:48:04 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 17:48:04 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 17:48:04 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 17:48:04 | INFO     | OmegaEngine | 📊 Current BTC Price: $50,000.00
+2026-04-12 17:49:00 | INFO     | OmegaEngine | 💓 Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 17:49:47 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 17:49:47 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 17:49:48 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:49:48 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:49:48 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Session Duration: 0:01:44.214767
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 17:49:48 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:49:48 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 17:49:48 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:49:48 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:49:48 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Session Duration: 0:01:44.671730
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 17:49:48 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 17:49:48 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:49:48 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:53:01 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ============================================================
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ Telegram Bot initialized
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ Exchange: Binance (LIVE MODE - BE CAREFUL!)
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 17:53:01 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ MySQL connected
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ Redis connected
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ⚡ Numba test: 41.2µs per iteration
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ Performance target achieved! (41.2µs < 500µs)
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ✅ Omega Engine initialized successfully
+2026-04-12 17:53:01 | INFO     | OmegaEngine | 💰 Initial Balance: $10,000.00
+2026-04-12 17:53:01 | INFO     | OmegaEngine | 🎯 Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 17:53:01 | INFO     | OmegaEngine | ⚡ Target Latency: <500µs
+2026-04-12 17:53:01 | INFO     | OmegaEngine | 🚀 Omega Engine is now ONLINE
+2026-04-12 17:53:02 | ERROR    | OmegaEngine | Failed to get price: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776005582213&recvWindow=10000&signature=fd8b4ffbbedc07082c6f239ce47bd148045abfde9852942219bd98255f685481
+2026-04-12 17:53:02 | INFO     | OmegaEngine | 📊 Current BTC Price: $0.00
+2026-04-12 17:53:47 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 17:53:47 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:53:47 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:53:47 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 17:53:47 | INFO     | OmegaEngine | Session Duration: 0:00:46.193533
+2026-04-12 17:53:47 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 17:53:47 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 17:53:47 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 17:53:47 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 17:53:47 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:53:47 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 17:53:47 | INFO     | OmegaEngine | 🛑 Shutting down Omega Engine...
+2026-04-12 17:53:48 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:53:48 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 17:53:48 | INFO     | OmegaEngine | Session Duration: 0:00:46.587776
+2026-04-12 17:53:48 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 17:53:48 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 17:53:48 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 17:53:48 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 17:53:48 | INFO     | OmegaEngine | ==================================================
+2026-04-12 17:53:48 | INFO     | OmegaEngine | ✅ Shutdown complete
+2026-04-12 20:59:53 | INFO     | OmegaEngine | ============================================================
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 20:59:53 | INFO     | OmegaEngine | ============================================================
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Telegram Bot initialized
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Exchange: Binance (LIVE MODE)
+2026-04-12 20:59:53 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 20:59:53 | INFO     | OmegaEngine | MySQL connected
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Redis connected
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Numba test: 33.3µs per iteration
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Performance target achieved! (33.3µs < 500µs)
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Omega Engine initialized successfully
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Initial Balance: $10,000.00
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 20:59:53 | INFO     | OmegaEngine | Omega Engine is now ONLINE
+2026-04-12 21:01:00 | ERROR    | OmegaEngine | Failed to get real balance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776016860845&recvWindow=10000&signature=910365ed57e0249babc6183fcd3835889418b14f9c5464d33865e56a7bb8a878
+2026-04-12 21:03:03 | INFO     | OmegaEngine | Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Shutting down Omega Engine...
+2026-04-12 21:03:43 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:03:43 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Session Duration: 0:03:50.169644
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 21:03:43 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 21:03:43 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Shutdown complete
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Shutting down Omega Engine...
+2026-04-12 21:03:44 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:03:44 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Session Duration: 0:03:51.022097
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 21:03:44 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:03:44 | INFO     | OmegaEngine | Shutdown complete
+2026-04-12 21:27:29 | INFO     | OmegaEngine | ============================================================
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 21:27:29 | INFO     | OmegaEngine | ============================================================
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Telegram Bot initialized
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Exchange: Binance (LIVE MODE)
+2026-04-12 21:27:29 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 21:27:29 | INFO     | OmegaEngine | MySQL connected
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Redis connected
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Numba test: 44.5µs per iteration
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Performance target achieved! (44.5µs < 500µs)
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Omega Engine initialized successfully
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Initial Balance: $10,000.00
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 21:27:29 | INFO     | OmegaEngine | Omega Engine is now ONLINE
+2026-04-12 21:28:00 | ERROR    | OmegaEngine | Failed to get balance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776018480407&recvWindow=10000&signature=1ed73f25af9e68f2774d988f7fcb2d67fcb79c9bcbf123700ba62e7ec6b5704f
+2026-04-12 21:28:00 | INFO     | OmegaEngine | Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 21:29:00 | ERROR    | OmegaEngine | Failed to get balance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776018540875&recvWindow=10000&signature=39aa1157633251850933603a9ed62a05423229cdf9ce943237ae42fc312a75d3
+2026-04-12 21:29:23 | INFO     | OmegaEngine | Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 21:30:00 | ERROR    | OmegaEngine | Failed to get balance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776018600271&recvWindow=10000&signature=12b6c4f3910cab8bbaf2d275257f71edda15f3fe2bdab07964af8038a4880270
+2026-04-12 21:30:01 | INFO     | OmegaEngine | Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 21:30:27 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 21:30:27 | INFO     | OmegaEngine | Shutting down Omega Engine...
+2026-04-12 21:30:28 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:30:28 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Session Duration: 0:02:58.983342
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 21:30:28 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Shutdown complete
+2026-04-12 21:30:28 | INFO     | OmegaEngine | Shutting down Omega Engine...
+2026-04-12 21:30:29 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:30:29 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 21:30:29 | INFO     | OmegaEngine | Session Duration: 0:03:00.145438
+2026-04-12 21:30:29 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 21:30:29 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 21:30:29 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 21:30:29 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 21:30:29 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:30:29 | INFO     | OmegaEngine | Shutdown complete
+2026-04-12 21:32:15 | INFO     | OmegaEngine | ============================================================
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Omega Engine Starting...
+2026-04-12 21:32:15 | INFO     | OmegaEngine | ============================================================
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Telegram Bot initialized
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Exchange: Binance (LIVE MODE)
+2026-04-12 21:32:15 | INFO     | OmegaEngine | ✅ Authorized - MAC: 3C:6A:A7:16:A5:ED
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Initializing database connections...
+2026-04-12 21:32:15 | INFO     | OmegaEngine | MySQL connected
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Redis connected
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Numba test: 35.0µs per iteration
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Performance target achieved! (35.0µs < 500µs)
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Omega Engine initialized successfully
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Initial Balance: $10,000.00
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Risk Management: Active (Stop Loss: 2.0%)
+2026-04-12 21:32:15 | INFO     | OmegaEngine | Omega Engine is now ONLINE
+2026-04-12 21:33:00 | ERROR    | OmegaEngine | Failed to get balance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776018780073&recvWindow=10000&signature=5499c2d933dae13f492d28ca850ea159e840e32d92538bb925a4e6b01833892f
+2026-04-12 21:33:00 | INFO     | OmegaEngine | Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 21:34:00 | ERROR    | OmegaEngine | Failed to get balance: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1776018840518&recvWindow=10000&signature=b3b538296bb3078ae7961659cbb75c5367049e4197c593c5b5dbca809d568295
+2026-04-12 21:34:00 | INFO     | OmegaEngine | Heartbeat | Balance: $10,000.00 | Drawdown: 0.00% | Win Rate: 0.0%
+2026-04-12 21:34:32 | INFO     | OmegaEngine | Received signal 2, shutting down...
+2026-04-12 21:34:32 | INFO     | OmegaEngine | Shutting down Omega Engine...
+2026-04-12 21:34:33 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:34:33 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Session Duration: 0:02:18.226003
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 21:34:33 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Shutdown complete
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Shutting down Omega Engine...
+2026-04-12 21:34:33 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:34:33 | INFO     | OmegaEngine | FINAL SESSION SUMMARY
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Session Duration: 0:02:18.688186
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Final Balance: $10,000.00
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Total Profit: $0.00
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Win Rate: 0.0%
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Max Drawdown: 0.00%
+2026-04-12 21:34:33 | INFO     | OmegaEngine | ==================================================
+2026-04-12 21:34:33 | INFO     | OmegaEngine | Shutdown complete
